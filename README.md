@@ -211,6 +211,10 @@ volumes:
 
 حالا کامند زیر
 
+https://faucet.edgenet.allora.network/
+
+فاست بگیرید
+
 ```
 docker compose build
 docker compose up -d
