@@ -298,7 +298,20 @@ curl --location 'http://localhost:6000/api/v1/functions/execute' \
   } 
 } 
 
+لاگ نود اول
+docker compose logs -f worker-1
+
+
+لاگ نود دوم
+docker compose logs -f worker-2
+
+
+.
 
 
 
+-------------------------------------------------------------------------------
 
+Rivalz CLI 
+
+https://github.com/xONEIROS/Rivalz-CLI
